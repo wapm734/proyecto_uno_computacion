@@ -6,13 +6,12 @@ Este programa calcula y grafica la potencia y energía diaria de un panel solar.
 Requisitos:
 - Python 3
 - matplotlib
+- math
 
 Instalación de matplotlib:
 pip install matplotlib
 
 Ejecución:
-python simulacion_solar.py
-
 Entradas:
 - Latitud, longitud y huso horario
 - Día del año (1–365)
