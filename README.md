@@ -1,2 +1,26 @@
 # proyecto_uno_computacion
-este es mi primer repositorio en github que forma parte de los temas en mi clase de computación numérica 
+Simulación de Panel Solar
+
+Este programa calcula y grafica la potencia y energía diaria de un panel solar.
+
+Requisitos:
+- Python 3
+- matplotlib
+
+Instalación de matplotlib:
+pip install matplotlib
+
+Ejecución:
+python simulacion_solar.py
+
+Entradas:
+- Latitud, longitud y huso horario
+- Día del año (1–365)
+- Ángulo de inclinación y acimut del panel
+- Área y eficiencia del panel
+- Irradiancia difusa (DHI) y albedo del suelo
+
+Salidas:
+- Potencia y energía diaria aproximada en consola
+- Gráficas de altura solar y potencia del panel
+
